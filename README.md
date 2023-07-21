@@ -1,12 +1,20 @@
-# GitHub Actions Importer
 
+Created: 20230720
+Modified: 20230720
+Created by: LawbossIntegration
+Last Modified by: @LawbossIntegration
+
+# WIP - PURPOSE
+To automate application release and confirm behavior before roll out to production blue - green deployment.
+
+### ORIGINALLY FORKED FROM: GitHub Actions Importer
 [![.github/workflows/ci.yml](https://github.com/github/gh-actions-importer/actions/workflows/ci.yml/badge.svg)](https://github.com/github/gh-actions-importer/actions/workflows/ci.yml)
 
 [GitHub Actions Importer](https://docs.github.com/en/actions/migrating-to-github-actions/automating-migration-with-github-actions-importer) helps plan, test, and automate your migration to GitHub Actions from the following platforms:
 
+- CircleCI
 - Azure DevOps
 - Bamboo (currently in beta)
-- CircleCI
 - GitLab
 - Jenkins
 - Travis CI
